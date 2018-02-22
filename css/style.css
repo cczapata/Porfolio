@@ -114,16 +114,16 @@ h3 {
   height: 90px;
 
   /* Typography */
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 30px;
+  font-family: Helvetica, serif;
+  font-size: 50px;
   font-weight: 700;
   line-height: 90px;
-  color: #fff;
+  color: grey;
   text-align: center;
   text-decoration: none;
 
   /* Visual */
-  background: #5f9ea0;
+  background: #white;
 }
 
 nav {
@@ -192,7 +192,7 @@ footer {
 
   /* Visual */
   background: #666;
-  border-top: 8px solid #4aaaa5;
+  /*border-top: 8px solid #4aaaa5;*/
 }
 
 /* sidebar */
@@ -325,7 +325,8 @@ main {
   /* Box-model */
   width: 200px;
   height: auto;
-  margin-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 
   /* Positioning */
   margin-right: 25px;
