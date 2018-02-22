@@ -10,6 +10,7 @@ body {
 
   /* Visual */
   background: url("../images/concrete_seamless.png");
+  /*background:linear-gradient(to top left, #009999 20%, #0099cc 100%);*/
 }
 
 * {
@@ -313,7 +314,7 @@ main {
 
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: #88bbb8;
 
   /* Visual */
   border-bottom: 0;
